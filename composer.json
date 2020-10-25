@@ -1,0 +1,12 @@
+{
+    "name": "yohan/quest-twig",
+    "authors": [
+        {
+            "name": "Yohan Tahir",
+            "email": "yohantahir@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
